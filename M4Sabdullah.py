@@ -236,7 +236,7 @@ logo =("""
 \033[1;36m============================================================
  
 \033[1;36m[+] AUTHOR       :   MOHAMMED ABDULLAH 
-\x1b[1;36m+] FACEBOOK     :   Mohammed Abdullah 
+\x1b[1;36m[+] FACEBOOK     :   Mohammed Abdullah 
 \x1b[1;36m[+] GITHUB       :   AbdullahX4
 \x1b[1;36m[+] TEAM         :   \33[1;42  MaX4 Squad\33[0m
 \033[1;36m[+] TOOLS        :   RENDOM CLONING 
